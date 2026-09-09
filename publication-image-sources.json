@@ -1,0 +1,172 @@
+[
+  {
+    "id": "paper-1",
+    "title": "Microneedle patches at the bio-agricultural Interface: Toward precision, resilience, and sustainability",
+    "doi": "10.1016/j.foodres.2026.120242",
+    "image": "/images/papers/paper-1.jpg",
+    "kind": "GRAPHICAL ABSTRACT",
+    "source": "https://doi.org/10.1016/j.foodres.2026.120242",
+    "caption": "Microneedle patches connecting plant monitoring, targeted delivery and farm-to-fork quality assurance. Fangzheng Zhou et al., Food Research International (2026).",
+    "sha256": "e6c1acaf2d93bd4c49f83d52a125cc2ffd1f3154214b38e24464609ccd2cd62b"
+  },
+  {
+    "id": "paper-2",
+    "title": "Self-healing materials for food packaging: Design principles, activation mechanisms and implications for food safety",
+    "doi": "10.1016/j.foodres.2026.120227",
+    "image": "/images/papers/paper-2.jpg",
+    "kind": "GRAPHICAL ABSTRACT",
+    "source": "https://doi.org/10.1016/j.foodres.2026.120227",
+    "caption": "Self-healing material classes, activation mechanisms and food-packaging applications. Mengzi Nie et al., Food Research International (2026).",
+    "sha256": "1c96b0c666cb075fe10b646d05582d8dc967c06cbd25b62f47a25d8bef61cbcb"
+  },
+  {
+    "id": "paper-3",
+    "title": "The AI-material nexus rewiring the food supply chain: From molecule to market",
+    "doi": "10.59717/j.xinn-life.2026.100232",
+    "image": "/images/papers/paper-3.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.59717/j.xinn-life.2026.100232",
+    "caption": "Figure 1: the AI–materials nexus across the food supply chain. Peihua Ma et al., The Innovation Life (2026). CC BY 4.0.",
+    "sha256": "b73753f46940c5b8189ad2c437feb7998b35be684d54c068d7cc23673edd0e17"
+  },
+  {
+    "id": "paper-4",
+    "title": "From prediction to actionable mechanisms: Explainable multi-omics AI for farm-to-fork postharvest preservation",
+    "doi": "10.1002/imt2.70139",
+    "image": "/images/papers/paper-4.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1002/imt2.70139",
+    "caption": "Original Figure 1: an explainable-AI framework connecting prediction, mechanistic interpretation and intervention validation. Ma et al., iMeta (2026), CC BY.",
+    "sha256": "8abd44e2da27517697069b564f8e567b6d479d76bee70b2069758bde78df9a9f"
+  },
+  {
+    "id": "paper-5",
+    "title": "Recent advances and critical insights of cellulose nanocrystals in active food packaging",
+    "doi": "10.1080/10408398.2026.2681137",
+    "image": "/images/papers/paper-5-topic.svg",
+    "kind": "TOPIC SCHEMATIC",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/42246370/",
+    "caption": "Editorial topic schematic based on the abstract or publicly available article text, not an original publisher figure. The original figure could not be retrieved; the source text is linked below.",
+    "sha256": "74da00e12567c2a629e0c8f1e0ad5f9ebd97adf1ceb6901e85d5b648cc7a4e5a"
+  },
+  {
+    "id": "paper-6",
+    "title": "Knowledge graphs in food and nutrition: Applications, challenges, and future directions",
+    "doi": "10.1016/j.tifs.2026.105830",
+    "image": "/images/papers/paper-6.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.tifs.2026.105830",
+    "caption": "Figure 1: construction, applications, challenges and outlook of food and nutrition knowledge graphs. Chenglong Lv et al., Trends in Food Science & Technology (2026).",
+    "sha256": "4f476282aa83e081bed114cb882d038dfbb4d596530705bf1ec413e80e3836f2"
+  },
+  {
+    "id": "paper-7",
+    "title": "Big data enabled flavor quality control: Visualized recognition of edible oils via intelligent hardware modules",
+    "doi": "10.1016/j.tifs.2026.105848",
+    "image": "/images/papers/paper-7.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.tifs.2026.105848",
+    "caption": "Figure 1: a framework linking edible-oil flavor chemistry, sensing and quality decisions. Xiangning Tang et al., Trends in Food Science & Technology (2026).",
+    "sha256": "bb31ba05184fdf59daf7bb028a1798daaf102c537d200d8a7d8aa2a0f79f539b"
+  },
+  {
+    "id": "paper-8",
+    "title": "Reprogramming of interfaces in high internal phase emulsions for saliva-triggered phase inversion and dynamic lubrication",
+    "doi": "10.1016/j.cej.2026.177547",
+    "image": "/images/papers/paper-8.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.cej.2026.177547",
+    "caption": "Figure 1: saliva-triggered interfacial destabilization, phase inversion and lubrication transition. Ruoning Zhang et al., Chemical Engineering Journal (2026).",
+    "sha256": "872809178ed2ef74d5eade5315533383049893895f1299df28e1e3885c61cb0b"
+  },
+  {
+    "id": "paper-9",
+    "title": "Water-stable chitosan nanocrystals-zinc composite for mitigating PFAS contamination in water and food systems",
+    "doi": "10.1016/j.jwpe.2026.110040",
+    "image": "/images/papers/paper-9.jpg",
+    "kind": "GRAPHICAL ABSTRACT",
+    "source": "https://doi.org/10.1016/j.jwpe.2026.110040",
+    "caption": "Chitosan nanocrystals–zinc composite and the proposed adsorption mechanism for PFOA and PFOS. Xiaoxue Jia et al., Journal of Water Process Engineering (2026).",
+    "sha256": "fb051d216057e9c181695a794747eb352718dfc0cb6305efc624010801ae06b6"
+  },
+  {
+    "id": "paper-10",
+    "title": "Embodied artificial intelligence in the food supply chain: Innovations, challenges, and future perspectives",
+    "doi": "10.1016/j.tifs.2026.105698",
+    "image": "/images/papers/paper-10.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.tifs.2026.105698",
+    "caption": "Applications, innovations and implementation challenges of embodied AI in the food supply chain. Chongyu Wang et al., Trends in Food Science & Technology (2026).",
+    "sha256": "95ad3e89ddf2e8717c17136864ceb13bbcf163e575a4dc2bde6f82866a000048"
+  },
+  {
+    "id": "paper-11",
+    "title": "Rethinking ultra-processed foods: Controversies, health evidence, and policy directions",
+    "doi": "10.59717/j.xinn-nutri.2026.100003",
+    "image": "/images/papers/paper-11-topic.svg",
+    "kind": "TOPIC SCHEMATIC",
+    "source": "https://www.the-innovation.org/data/article/nutrition/preview/pdf/TIN-2026-0001.pdf",
+    "caption": "Editorial topic schematic based on the abstract or publicly available article text, not an original publisher figure. The original figure could not be retrieved; the source text is linked below.",
+    "sha256": "731e851de803e2d2fe078a5cfe5a3e053a05ae93c804d851cddb570451d78f9c"
+  },
+  {
+    "id": "paper-12",
+    "title": "High-Value Applications of Bioactive Polysaccharides and Functional Components from Baijiu Distillers’ Grains: A Review",
+    "doi": "10.3390/agriculture16050527",
+    "image": "/images/papers/paper-12.png",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.3390/agriculture16050527",
+    "caption": "Figure 1: recovery, bioactivity research and valorization of functional components from Baijiu distillers’ grains. Chenlu Guan et al., Agriculture (2026). CC BY 4.0.",
+    "sha256": "47956e28707a7b25870bfb219bec6ea399ce17c2cd119f4b4ce5f463113cfacc"
+  },
+  {
+    "id": "paper-13",
+    "title": "Machine learning-based meat freshness evaluation: principle, pipeline and application",
+    "doi": "10.1080/10408398.2026.2616384",
+    "image": "/images/papers/paper-13-topic.svg",
+    "kind": "TOPIC SCHEMATIC",
+    "source": "https://www.tandfonline.com/doi/abs/10.1080/10408398.2026.2616384",
+    "caption": "Editorial topic schematic based on the abstract or publicly available article text, not an original publisher figure. The original figure could not be retrieved; the source text is linked below.",
+    "sha256": "a4471da782f9c682ef6766befdcb3afcfa9146821e867b38a87a41e0c66e4b44"
+  },
+  {
+    "id": "paper-14",
+    "title": "Storage life prediction and quality discrimination of instant green tea: Integrating computer vision, electronic nose, and electronic tongue",
+    "doi": "10.1016/j.foodchem.2025.146926",
+    "image": "/images/papers/paper-14.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.foodchem.2025.146926",
+    "caption": "Changes in moisture and key chemical quality indicators of instant green tea during storage. Yang Wei et al., Food Chemistry (2025).",
+    "sha256": "ad150f6af896aa28da69a7824513aeff3a2b35d284401db483ec80d3d1193e8c"
+  },
+  {
+    "id": "paper-15",
+    "title": "Gradient curdlan@Zn/chitosan@curcumin composite films by interfacial co-precipitation for enhanced fruit preservation",
+    "doi": "10.1016/j.ijbiomac.2025.148714",
+    "image": "/images/papers/paper-15.jpg",
+    "kind": "GRAPHICAL ABSTRACT",
+    "source": "https://doi.org/10.1016/j.ijbiomac.2025.148714",
+    "caption": "Structure and performance of gradient curdlan@Zn/chitosan@curcumin composite films. Xiaoxue Jia et al., International Journal of Biological Macromolecules (2025).",
+    "sha256": "a26a97e82719944a993bbfd0139c4ac22a3d8f3314f6226e1e7368e2624de46e"
+  },
+  {
+    "id": "paper-16",
+    "title": "Interface and Bulk Phase Engineering in Water‐in‐Oil High Internal Phase Emulsion: A Clean‐Label Strategy for Stabilization and Application",
+    "doi": "10.1111/1541-4337.70247",
+    "image": "/images/papers/paper-16-topic.svg",
+    "kind": "TOPIC SCHEMATIC",
+    "source": "https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1541-4337.70247",
+    "caption": "Editorial topic schematic based on the abstract or publicly available article text, not an original publisher figure. The original figure could not be retrieved; the source text is linked below.",
+    "sha256": "acdfecd76b3f2b166eb2f8e1dcc245d92bc8ba733794db5ebc89e3cc6ea87a2c"
+  },
+  {
+    "id": "paper-17",
+    "title": "Structure from motion-convolutional neural network model (SfM-CNN) achieved accurate portable Chinese dietary chemical composition estimation for dietary recall",
+    "doi": "10.1016/j.foodchem.2025.144908",
+    "image": "/images/papers/paper-17.jpg",
+    "kind": "ARTICLE FIGURE",
+    "source": "https://doi.org/10.1016/j.foodchem.2025.144908",
+    "caption": "Smartphone video capture, three-dimensional reconstruction and food-volume estimation workflow. Peihua Ma et al., Food Chemistry (2025).",
+    "sha256": "4b526252e5070a3e3bc50e15ca28708f5a52f50921fdc1c628d9e7971424d91d"
+  }
+]

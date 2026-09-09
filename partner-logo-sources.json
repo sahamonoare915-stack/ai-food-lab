@@ -1,0 +1,90 @@
+{
+  "retrievedAt": "2026-09-10",
+  "partnershipSource": "Website owner supplied the partner list.",
+  "logos": [
+    {
+      "englishName": "COFCO",
+      "homepage": "https://www.cofco.com/cn/",
+      "width": 1277,
+      "height": 603,
+      "file": "cofco-logo.png",
+      "id": "cofco",
+      "source": "https://www.cofco.com/img/logo_2.png",
+      "chineseName": "中粮",
+      "websiteImage": "./images/partners/cofco-logo.png",
+      "sha256": "9a98086a0a98d378872bf3f786f96a6988d1e91f641b6f388821db38558371e5",
+      "modified": false,
+      "note": "Original official company asset."
+    },
+    {
+      "englishName": "BYHEALTH",
+      "homepage": "https://www.by-health.com/",
+      "width": 272,
+      "height": 82,
+      "file": "by-health-logo.png",
+      "id": "by-health",
+      "source": "https://wmdata.by-health.com/byhealth/upload/images/2024/6841810e4d381dc2.png",
+      "chineseName": "汤臣倍健",
+      "websiteImage": "./images/partners/by-health-logo.png",
+      "sha256": "53cc26922b6b2e8a39eab91a85b1dcc7b341ac5ae1e381364af16368de15afb8",
+      "modified": false,
+      "note": "Original official company asset."
+    },
+    {
+      "englishName": "SIRIO",
+      "homepage": "https://www.siriopharma.com/",
+      "width": 109,
+      "height": 27,
+      "file": "sirio-logo.svg",
+      "id": "sirio",
+      "source": "https://sirio-europe.com/",
+      "chineseName": "仙乐健康",
+      "websiteImage": "./images/partners/sirio-logo.svg",
+      "sha256": "633bdfd5ed44295e0167fe7139e61f46e8dff693ca872212f21e1d76adad199a",
+      "modified": false,
+      "note": "Exact inline Logo_Sirio SVG extracted from the official SIRIO Europe homepage."
+    },
+    {
+      "englishName": "Mengniu",
+      "homepage": "https://www.mengniu.com.cn/",
+      "width": 1920,
+      "height": 644,
+      "file": "mengniu-logo-brandpage.png",
+      "id": "mengniu",
+      "source": "https://img.mengniu.com.cn/Uploads/Mnnew/Picture/2023/08/21/u64e30d2d71c84.png",
+      "chineseName": "蒙牛",
+      "websiteImage": "./images/partners/mengniu-logo-brandpage.png",
+      "sha256": "f1d20f0494182fd0cb4d2b5a75f992081fc654ad8331c113dfa86fc22e03f347",
+      "modified": false,
+      "note": "Original official company asset."
+    },
+    {
+      "englishName": "AUBO Robotics",
+      "homepage": "https://www.aubo-robotics.cn/",
+      "width": 120.205505,
+      "height": 65,
+      "file": "aubo-logo.svg",
+      "id": "aubo",
+      "source": "https://www.aubo-robotics.cn/static/images/logo.svg",
+      "chineseName": "遨博机器人",
+      "websiteImage": "./images/partners/aubo-logo.svg",
+      "sha256": "cd5e415792ba226a26618a678ae70d4aea56bce4ba5d0a703102cb69432004b5",
+      "modified": false,
+      "note": "Original official company asset."
+    },
+    {
+      "englishName": "Saishang Dairy",
+      "homepage": "https://www.saishangmilk.com/",
+      "width": 741,
+      "height": 199,
+      "file": "saishang-logoB.png",
+      "id": "saishang",
+      "source": "https://www.saishangmilk.com/resources/assets/images/logoB.png",
+      "chineseName": "塞尚乳业",
+      "websiteImage": "./images/partners/saishang-logoB.png",
+      "sha256": "0747b76ac82231b4e5fb1bc8ee18f2b867d65e7bcc66d056211f855134be5000",
+      "modified": false,
+      "note": "Original official company asset."
+    }
+  ]
+}

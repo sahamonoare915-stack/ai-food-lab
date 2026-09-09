@@ -72,3 +72,15 @@
 - `scripts/export-lab-model.py` 可在 Blender 打开用户原文件后重新执行转换，`app/lab-model-viewer.tsx` 与 CSS 负责中英文展示、按需加载、错误重试、恢复视角和放大查看。
 
 原始 .blend 包含网站展示以外的参考素材，保留在用户本地；网站包和源码包包含可完整重建网页的 GLB、渲染预览、查看器、解码器与转换脚本。
+
+
+## 2026-09-10：本次研究图片、Logo、Python 模型与合作企业
+
+本节说明当前生效版本，上文保留为维护历史。
+
+1. 第四个研究项目采用用户新提供的 acb5500c668ab57eb3a8e4dd3c4d250b.jpg，经内置 imagegen 调整为 1086 × 1448（3:4）竖版，保存为 public/images/projects/maillard-reaction-portrait-20260910.png。保留数据库、分子与质谱面板、AI 芯片、原位分析探头、烤制食品和反应物/产物的概念要素。仅作研究概念图，原始生成提示保存在 image-generation-prompts/。
+2. 用户提供 f143963c3b87daa36080a90715fd0743.png，原样复制为 public/images/ai-food-lab-logo.png（210 × 174），用于首页品牌、页尾及网站图标。
+3. 使用用户新提供 lab_reconstruction (3)(1).py 的原样副本生成完整场景，再由 Blender 4.5.13 LTS 转换为 public/models/food-lab-python-20260910.glb。模型包含 34 个材质组、303404 个三角形，完整压缩网格已用网站部署的 Draco 解码器验证。加载预览由新模型场景相机渲染。Python 来源与字体保存在源码包的 model-source/ 中。新版资源使用独立路径以避免旧缓存。
+4. 合作企业名单由网站所有者提供，使用中粮、汤臣倍健、仙乐健康、蒙牛、遨博机器人、塞尚乳业的官方 Logo，未重新绘制或改色。用户写的“仙乐”以“仙乐健康”展示，“塞尚乳液”按官方企业名“塞尚乳业”展示。图标与来源 URL、SHA256 见 partner-logo-sources.json。SIRIO 标识为官方主站链接的欧洲官网页首内联 SVG 原样提取，其余为企业官网的静态资源。第三方标识权利仍归各企业。
+
+保留前三项项目文字与图片、研究区标题、中英文切换、论文、导师、新闻和联系信息。

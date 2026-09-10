@@ -1,0 +1,25 @@
+{
+  "verifiedOn": "2026-09-10",
+  "labRoleSource": "Website owner’s explicit instructions on 2026-09-10",
+  "teamOfficialName": "食物营养与功能性食品创新团队",
+  "teamOfficialUrl": "https://ifst.caas.cn/pub/iappst/rctd/cxtd/spyyygnyzlycxtd/index.htm",
+  "teamLinks": {
+    "王凤忠团队介绍": "https://ifst.caas.cn/pub/iappst/rctd/cxtd/spyyygnyzlycxtd/index.htm",
+    "功能性营养及食品创新团队": "https://ifst.caas.cn/pub/iappst/rctd/cxtd/spyyygnyzlycxtd/index.htm"
+  },
+  "wangFengzhong": {
+    "institutionalProfile": "https://ifnd.caas.cn/bsgk/xrld/e94ada4ff0614fb19cb3aae167ee3381.htm",
+    "officialRole": "农业农村部食物与营养发展研究所所长、团队首席科学家",
+    "labResponsibility": "实验室行政管理与统筹协调",
+    "portrait": "public/images/wang-fengzhong-portrait-20260910.png",
+    "portraitSource": "User-provided photograph; dark navy background matched to the user-provided Peihua Ma reference using built-in image_gen",
+    "promptFile": "image-generation-prompts/wang-fengzhong-background-20260910.txt"
+  },
+  "maPeihua": {
+    "institutionalProfile": "https://ifst.caas.cn/rctd/gjzc/zgjzc/3dd5c19eaf424a98a55fa6e7a3c4a31b.htm",
+    "labRole": "执行 PI · 科研与运营负责人",
+    "labResponsibility": "AI × Food Lab 科研工作与日常运营",
+    "portrait": "public/images/peihua-ma-portrait.jpg"
+  },
+  "note": "The two owner-requested link labels lead to the same verified official team page. Official academic credentials come from CAAS profiles; internal laboratory responsibilities and hardware-control design come from the owner’s request."
+}

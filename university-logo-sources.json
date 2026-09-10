@@ -1,5 +1,5 @@
 {
-  "retrievedAt": "2026-09-10",
+  "retrievedAt": "2026-09-11",
   "partnershipSource": "Website owner supplied the eight academic partners.",
   "universities": [
     {
@@ -21,14 +21,15 @@
       "chineseName": "新加坡国立大学",
       "englishName": "National University of Singapore",
       "homepage": "https://www.nus.edu.sg/",
-      "source": null,
-      "image": null,
-      "width": 0,
-      "height": 0,
-      "sha256": null,
+      "source": "https://image.hello.nus.edu.sg/lib/fe221174736404787c1d77/m/1/a8920d30-dc13-46ef-a9f3-c9e55bc4a159.png",
+      "image": "./images/universities/nus-logo.png",
+      "width": 640,
+      "height": 292,
+      "sha256": "789539095b8fb76a7d44adad6e9b3802ca813485385aa7589e24fa8537de82a3",
       "backdrop": "white",
       "modified": false,
-      "note": "Official university logo was located but download returned an Incapsula HTML challenge rather than image bytes. Official department composite logos were rejected; use the university name and official homepage."
+      "note": "Official NUS postgraduate information page logo: full-colour crest and university wordmark, downloaded unchanged from its official image host.",
+      "sourcePage": "https://cloud.hello.nus.edu.sg/pg-subscription?acquisition_source_id=B2C_WEBFORM_PG_SPH%E2%80%8B"
     },
     {
       "id": "ntu",
@@ -105,14 +106,15 @@
       "chineseName": "都柏林大学（UCD）",
       "englishName": "University College Dublin",
       "homepage": "https://www.ucd.ie/",
-      "source": null,
-      "image": null,
-      "width": 0,
-      "height": 0,
-      "sha256": null,
+      "source": "https://crm.ucd.ie/futurestudents/file-asset/UCDinstitutionallockupduallanguagecolou?v=1&height=300&width=300",
+      "image": "./images/universities/ucd-logo.jpg",
+      "width": 1800,
+      "height": 360,
+      "sha256": "0498904068a66a6ee44fc3590e5fd251a959e8323c5cfb1008868998200223e5",
       "backdrop": "white",
       "modified": false,
-      "note": "Official logo URL returned HTTP 403; library/repository alternatives failed. Accessible NIA official lab homepage contains only the lab logo, not an independent UCD logo. Use official university name and homepage; no replacement logo was fabricated."
+      "note": "Official UCD Future Students Portal institutional logo: full-colour crest with English and Irish university names. Original JPEG downloaded unchanged.",
+      "sourcePage": "https://crm.ucd.ie/futurestudents/s/knowledge"
     }
   ]
 }
